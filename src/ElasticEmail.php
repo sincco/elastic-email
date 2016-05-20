@@ -9,7 +9,7 @@
 # @author: Iván Miranda
 # @version: 1.0.0
 # -----------------------
-# Sen email using Elastic Email API
+# Send email using Elastic Email API
 # -----------------------
 
 namespace Sincco\Tools;
