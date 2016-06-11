@@ -1,6 +1,6 @@
 {
     "name": "sincco/elastic-email",
-    "description": "Create and validate token for user data",
+    "description": "Implements use for elastic email api",
     "license": "MIT",
     "keywords": ["email","elastic","elastic-email","sfphp","sincco"],
     "version": "1.0",
