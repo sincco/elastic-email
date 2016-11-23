@@ -8,7 +8,7 @@ To add this package as a local, per-project dependency to your project, simply a
 ```json
 {
     "require": {
-        "sincco/elastic-email": "dev-master"
+        "sincco/elastic-email": "1.0"
     }
 }
 ```
